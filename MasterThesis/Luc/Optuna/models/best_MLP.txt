@@ -1,0 +1,25 @@
+Value: 0.5 
+Params: 
+batch_size: 758 
+learning_rate: 0.0075347539813609326 
+n_layers: 20 
+n_units_l0: 82 
+n_units_l1: 5 
+n_units_l2: 90 
+n_units_l3: 179 
+n_units_l4: 718 
+n_units_l5: 86 
+n_units_l6: 162 
+n_units_l7: 16 
+n_units_l8: 4 
+n_units_l9: 181 
+n_units_l10: 35 
+n_units_l11: 8 
+n_units_l12: 309 
+n_units_l13: 520 
+n_units_l14: 526 
+n_units_l15: 50 
+n_units_l16: 416 
+n_units_l17: 40 
+n_units_l18: 70 
+n_units_l19: 98 
